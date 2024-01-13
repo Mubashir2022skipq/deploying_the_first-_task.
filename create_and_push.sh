@@ -2,7 +2,7 @@
 
 
 USERNAME="Mubashir2022skipq"
-TOKEN="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"
+TOKEN=""
 
 
 REPO_OWNER="Mubashir2022skipq"
